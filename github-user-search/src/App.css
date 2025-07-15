@@ -1,0 +1,31 @@
+.app {
+  font-family: sans-serif;
+  padding: 2rem;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+input {
+  padding: 0.5rem;
+  width: 70%;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-left: 0.5rem;
+}
+
+.profile {
+  margin-top: 2rem;
+}
+
+.profile img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
